@@ -4,4 +4,5 @@
 #### 2、admin地址：
     http://localhost:8018/sba/#/
 #### 3、admin client配置地址：
+    management.security.enabled=false
     spring.boot.admin.url=http://localhost:8018
